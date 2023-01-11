@@ -1,0 +1,371 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.freeKey{
+background: #F4F5F7;
+border: 1px solid #DEDEE2;
+border-radius: 6px;
+padding: 13px 100px;
+/* font-family: 'TT Commons'; */
+/* font-style: normal; */
+font-weight: 400;
+font-size: 16px;
+/* line-height: 20px; */
+color: #55556D;
+/* border: none; */
+outline: none;
+}
+.free{
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.search{
+    position: absolute;
+    left: 310px;
+    color: #2E1066;;
+}
+.sanktPeterburg{
+display: flex;
+align-items: start;
+}
+.peterburg{
+font-family: 'TT Commons';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+color: #1B1D1F;
+}
+.Number{
+font-family: 'TT Commons';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+color: #1B1D1F;
+}
+.gpse{
+    margin-right: 10px;
+}
+.good{
+    margin-top: 15px;
+}
+.origin{
+    background: #F4F5F7;
+border-radius: 8px;
+border: none;
+padding: 5px 7px ;
+padding-left: 7px;
+padding-right: 7px;
+}
+.katadiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 30px;
+}
+.buyCard{
+display: flex;
+background: #F4F5F7;
+border-radius: 8px;
+border: none;
+/* padding:11px; */
+}
+.five{
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.korzinka{
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.sot{
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.avtomasla{
+font-weight: 700;
+font-size: 40px;
+color: #FFFFFF;
+}
+.bigSkidka{
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top: 10px;
+    left: 40px;
+}
+.fiveteen{
+    background: orangered;
+    border-radius: 10px;
+    padding: 5px;
+}
+.besh{
+    position: relative;
+}
+.masloImg{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.aktsiya{
+
+font-weight: 400;
+font-size: 18px;
+color: #FFFFFF;
+padding-top: 30px;
+}
+.sevenImg{
+    padding-top: 40px;
+}
+.olti{
+    border-radius: 40px;
+}
+.live{
+    background-color: orangered;
+}
+/* ================================================================= */
+.origin{
+    display: flex;
+    align-items: start;
+     margin-left: 30px;
+     margin-top: 20px;
+     border: 1px solid #E8E3E3;
+box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+.mini_origin{
+    margin-left: 40px;
+    padding-top: 10px;
+}
+.zapchast{
+font-weight: 400;
+font-size: 20px;
+color: #1B1D1F;
+margin-bottom: 5px;
+}
+.tovar{
+font-weight: 400;
+font-size: 14px;
+color: #505255;
+}
+.motor{
+    margin-top: 10px;
+}
+/* .zapchast_A{
+text-decoration: none;
+font-weight: 400;
+font-size: 20px;
+} */
+.zapchast2{
+font-weight: 400;
+font-size: 20px;
+color: #096dd0;
+margin-bottom: 5px;
+}
+.like{
+    background: url(img/image\ 84w.png);
+}
+.postavka{
+font-weight: 400;
+font-size: 24px;
+color: #FFFFFF;
+}
+.arow{
+    color: white;
+    /* margin-left: 150px; */
+}
+.like{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px;
+    margin-top: 10px;
+}
+.avtoMasla{
+font-weight: 700;
+font-size: 24px;
+color: #1B1D1F;
+margin-bottom: 20px;
+}
+.vseMasla{
+ background: #F4F5F7;
+border-radius: 8px;
+border: none;
+font-weight: 400;
+font-size: 14px;
+color:#410F9E;
+padding: 10px 40px;
+}
+/* ================================================================= */
+.ballon-2{
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.artikul{
+font-weight: 400;
+font-size: 14px;
+color: #7A7680;
+}
+.mobil{
+font-weight: 700;
+font-size: 16px;
+color: #1B1D1F;
+}
+.ballon-3{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    margin-top: 15px;
+}
+.rubl-2{
+font-weight: 400;
+font-size: 16px;
+color: #7A7680;
+text-decoration-line: line-through;
+}
+.rubl{
+font-weight: 700;
+font-size: 30px;
+color: #1B1D1F;
+}
+.ballon{
+background: #FFFFFF;
+/* #DEDEE2 */
+border: 1px solid #DEDEE2;
+border-radius: 10px;
+/* border: none; */
+box-shadow: rgb(117, 113, 113)  10px 5px 5px 5px;
+padding-left: 10px;
+padding-right: 10px;
+}
+.offic{
+    height: 390px;
+    margin-bottom: 60px;
+}
+/* ================================================================= */
+.backMaslo{
+    background: url(img/back\ oil.png);
+    margin-bottom: 60px;
+}
+.kap{
+    margin-left: 20px;
+    margin-right: 5px;
+}
+.coming{
+color: #FFFFFF;
+font-weight: 400;
+font-size: 16px;
+background: linear-gradient(0deg, #5946D7, #5946D7), linear-gradient(0deg, #453888, #453888), linear-gradient(0deg, #410F9E, #410F9E), #2E1066;
+border-radius: 8px;
+padding: 9px 20px;
+border: none;
+margin-bottom: 120px;
+}
+.genesis{
+font-weight: 400;
+font-size: 24px;
+color: #1B1D1F;
+padding-bottom: 20px;
+padding-top: 30px;
+}
+#for{
+    background: url(img/back\ shina.png);
+}
+#for-2{
+    background: url(img/back\ mator.png);
+}
+/* ================================================================= */
+.rave{
+font-weight: 700;
+font-size: 24px;
+color: #1B1D1F;
+margin-bottom: 30px;
+}
+/* ================================================================= */
+.chasto{
+margin-bottom: 30px;
+margin-top: 60px;
+font-weight: 700;
+font-size: 24px;
+color: #1B1D1F;
+}
+/* ================================================================= */
+footer{
+    margin-top: 60px;
+    background: linear-gradient(0deg, #2F2B4A, #2F2B4A), #2F323D;
+}
+.menyu{
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.kontakt{
+    font-weight: 400;
+    font-size: 16px;
+    color: #84878b;
+}
+.vopros-2{
+    display: flex;
+    align-items: start;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.masege{
+ width: 40px;
+height: 40px;
+}
+.konsul{
+font-weight: 400;
+font-size: 16px;
+color: #FFFFFF;
+margin-left: 10px;
+}
+.voprosT{
+font-weight: 400;
+font-size: 14px;
+color: #F4F5F7;
+margin-left: 20px;
+}
+.vopros{
+    margin-top: 40px;
+    background: rgba(255, 255, 255, 0.1);
+border: 1px solid rgba(255, 255, 255, 0.2);
+border-radius: 10px;
+}
+.servisRa{
+    margin-top: 20px;
+}
+/* ================================================================= */
+.eleven{
+    border-top: 1px solid #ffffff;
+}
+.copy{
+font-weight: 400;
+font-size: 16px;
+color: #FFFFFF;
+margin-top: 20px;
+}
+.visa{
+    margin-top: 20px;
+}
+.ofeta{
+margin-top: 20px;
+font-weight: 400;
+font-size: 16px;
+color: #F4F5F7;
+}
+.konfe{
+margin-top: 20px;
+font-weight: 400;
+font-size: 16px;
+color: #F4F5F7;
+}
