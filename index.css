@@ -368,3 +368,12 @@ font-weight: 400;
 font-size: 16px;
 color: #F4F5F7;
 }
+/* ===========================Responsive====================================== */
+@media (max-width:575px) {
+    .respo{
+        display: flex;
+    }
+    .logoRespo{
+        margin-left: 15px;
+    }
+}
