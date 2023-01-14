@@ -376,4 +376,8 @@ color: #F4F5F7;
     .logoRespo{
         margin-left: 15px;
     }
+    .arkham{
+        display: flex;
+        justify-content: space-between;
+    }
 }
